@@ -1,5 +1,5 @@
 Language: C++
-Simple program for class where without using classes, pointers, etc. you had to render a block of text w/ provided line maximums. E.g, if you were to input the statement "I like cats" with a provided line maxium of 4, it would reutrn:
+Simple program for class where without using classes, pointers, etc. you had to render a block of text w/ provided line maximums. E.g, if you were to input the statement "I like cats" with a provided line maxium of 4, it would return:
 "I 
 like
 cats"
